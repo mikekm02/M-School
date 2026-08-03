@@ -1,5 +1,5 @@
 
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/g7m3y1l6sldl8y9dnp0c.jpeg)<br><br>
+
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/7c7ikl3yox0nuco09mzc.webp)<br><br>
 
