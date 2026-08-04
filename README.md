@@ -8,7 +8,7 @@ M-school is an educational institution designed to provide learning environments
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k3k62qxxfctpze7s6ne1.jpg)<br><br>
 M-School Primary school pupils.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/pwy5rg81jsg3mxya90he.jpg)<br><br>
-M-School Primary School break time.
+M-School Primary School break time.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ebjhk47khtp58arx8q2x.jpg)<br><br>
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/nq85ex1jenqkstxpzodi.jpg)<br><br>
