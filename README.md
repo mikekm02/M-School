@@ -27,5 +27,5 @@ M-School pupils closing time.<br><br>
 Contact:
 Obafemi Awolowo Way, glover road, Banana island, Lagos State, Nigeria
 +2347048612200, +234 803 402 2777
-admin@M-Schoollagos.com
+admin@M-Schoollagos.com<br>
 View us on Map
