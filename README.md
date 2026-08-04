@@ -20,6 +20,7 @@ M-School primary pupils garden.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/j746q5mmj8wvtv9zva42.jpg)<br><br>
 M-School pupils school hall.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/wbj1dskdkbwi07r0s2uc.jpg)<br><br>
-
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/gcyhu1bi1y5pismwnzk4.jpg)
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ob4k2dz6rom8fs6d5fbk.jpg)
+M-School pupils.<br><br>
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/gcyhu1bi1y5pismwnzk4.jpg)<br><br>
+M-School pupils closing time.<br><br>
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ob4k2dz6rom8fs6d5fbk.jpg)<br><br>
