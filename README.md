@@ -3,10 +3,10 @@
 
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/7c7ikl3yox0nuco09mzc.webp)<br><br>
-
+M-school is an educational institution designed to provide learning environments for the teaching of students, usually under the direction of teachers.<br><br> 
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k3k62qxxfctpze7s6ne1.jpg)<br><br>
-
+M-School Primary school pupils.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/pwy5rg81jsg3mxya90he.jpg)<br><br>
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ebjhk47khtp58arx8q2x.jpg)<br><br>
