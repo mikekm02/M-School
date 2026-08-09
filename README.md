@@ -1,7 +1,7 @@
 
 
 
-<a href="">Home></a><br><br><a href="https://github.com/mikekm02/M-School4">About us></a><br><br><a href="https://github.com/mikekm02/M-School2">Primary></a><br><br><a href="github.com/mikekm02/M-School3">Secondary></a><br><br><a href="https://github.com/mikekm02/M-School1">Gallery></a><br><br>
+<a href="">Home></a><br><br><a href="https://github.com/mikekm02/M-School4">About us></a><br><br><a href="https://github.com/mikekm02/M-School2">Primary></a><br><br><a href="https://github.com/mikekm02/M-School3">Secondary></a><br><br><a href="https://github.com/mikekm02/M-School1">Gallery></a><br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/7c7ikl3yox0nuco09mzc.webp)<br><br>
 M-school is an educational institution designed to provide learning environments for the teaching of students, usually under the direction of teachers.<br><br> 
 
