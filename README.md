@@ -32,6 +32,16 @@ M-School pupils closing time.<br><br>
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/rv70fwsbv91ykjrg74op.webp)<br><br>
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k8qupasr8knvozv37mos.webp)<br><br>
+<br><video width="320" height="240" controls>
+  <source src="https://m.youtube.com/shorts/P3mOja5hycc" type="video/mp4">
+  <source src="https://m.youtube.com/shorts/P3mOja5hycc" type="video/ogg">
+Your browser does not support the video tag.
+</video><br><br>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 Contact:
 Obafemi Awolowo Way, glover road, Banana island, Lagos State, Nigeria
